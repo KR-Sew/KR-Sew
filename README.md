@@ -1,4 +1,4 @@
-![!Header](https://github.com/KR-Sew/KR-Sew/blob/main/assets/header.jpg)
+<img src="/assets/header.jpg">
 >
 # <img src="/assets/HeaderIco.gif" width="30"> Hi there! Welcome to my page
 >
