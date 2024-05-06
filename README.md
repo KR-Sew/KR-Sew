@@ -1,10 +1,13 @@
 ![!Header](https://github.com/KR-Sew/KR-Sew/blob/main/assets/header.jpg)
 >
-## Hi there ![headeIco](https://github.com/KR-Sew/KR-Sew/blob/main/assets/HeaderIco.gif) Welcome to my page!
- I'm Andrei, System engineer/DevOps from ### St.-Peterburg, Russia
-  with 10+ years of experience in system administration/system engineering in enterprise and small business company I'm currently learn ### Go
+# Hi there ![headeIco](https://github.com/KR-Sew/KR-Sew/blob/main/assets/HeaderIco.gif) Welcome to my page!
 >
-### Things I work with
+I'm Andrei, **System engineer/DevOps** from **St.-Peterburg, Russia**
+with 10+ years of experience in system administration/system engineering in enterprise and small business company
+>
+ I'm currently learn **Go**
+>
+## Things I work with
 
 
 [![Windows](https://img.shields.io/badge/-Hyper_V-black?style=for-the-badge&logo=windows&logoColor=blue&logoSize=auto&labelColor=grey)](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019)
