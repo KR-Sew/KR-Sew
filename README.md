@@ -1,6 +1,6 @@
 ![!Header](https://github.com/KR-Sew/KR-Sew/blob/main/assets/header.jpg)
 >
-# Hi there ! <img src="/assets/HeaderIco.gif" width="30"> Welcome to my page
+# <img src="/assets/HeaderIco.gif" width="30"> Hi there! Welcome to my page
 >
 I'm Andrei, **System engineer/DevOps** from **St.-Peterburg, Russia**
 with 10+ years of experience in system administration/system engineering in enterprise and small business company
