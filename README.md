@@ -1,6 +1,6 @@
 ![!Header](https://github.com/KR-Sew/KR-Sew/blob/main/assets/header.jpg)
 >
-# Hi there ! <img src="/assets/HeaderIco.gif" size="30%"> Welcome to my page!
+# Hi there ! <img src="/assets/HeaderIco.gif" size="30%"> Welcome to my page
 >
 I'm Andrei, **System engineer/DevOps** from **St.-Peterburg, Russia**
 with 10+ years of experience in system administration/system engineering in enterprise and small business company
@@ -8,7 +8,6 @@ with 10+ years of experience in system administration/system engineering in ente
  I'm currently learn **Go**
 >
 ## Things I work with
-
 
 [![Windows](https://img.shields.io/badge/-Hyper_V-black?style=for-the-badge&logo=windows&logoColor=blue&logoSize=auto&labelColor=grey)](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019)
 [![Win terminal](https://img.shields.io/badge/-Windows_terminal-black?style=for-the-badge&logo=windows-terminal&logoColor=wite&logoSize=auto&labelColor=grey)](https://github.com/microsoft/terminal)
