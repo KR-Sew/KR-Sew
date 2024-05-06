@@ -13,4 +13,4 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=blue&logoSize=auto&labelColor=%23c7c7c8)](https://www.postgresql.org/)
 [![NGINX](https://img.shields.io/badge/-nginx-black?style=for-the-badge&logo=nginx&logoColor=wite&logoSize=auto&labelColor=grey)](https://nginx.org/en/)
 [![Debian](https://img.shields.io/badge/-debian-black?style=for-the-badge&logo=debian&logoColor=wite&logoSize=auto&labelColor=grey)](https://www.debian.org/)
-[![VM Ware](https://img.shields.io/badge/-vm_ware-black?style=for-the-badge&logo=vmware&logoColor=white&logoSize=auto&labelColor=grey)](https://www.vmware.com/products/esxi-and-esx.html)
+[![VM Ware](https://img.shields.io/badge/-esxi-black?style=for-the-badge&logo=vmware&logoColor=white&logoSize=auto&labelColor=grey)](https://www.vmware.com/products/esxi-and-esx.html)
