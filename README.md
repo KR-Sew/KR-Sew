@@ -1,10 +1,11 @@
-<img src="/assets/header.jpg">
+![!Header](https://github.com/KR-Sew/KR-Sew/blob/main/assets/header.jpg)
 >
 # <img src="/assets/HeaderIco.gif" width="30"> Hi there! Welcome to my page
 >
 I'm Andrei, **System engineer/DevOps** from **St.-Peterburg, Russia**
 with 10+ years of experience in system administration/system engineering in enterprise and small business company
 >
+
  I'm currently learn **Go**
 >
 ## Things I work with
@@ -22,3 +23,4 @@ with 10+ years of experience in system administration/system engineering in ente
 [![NGINX](https://img.shields.io/badge/-nginx-black?style=for-the-badge&logo=nginx&logoColor=wite&logoSize=auto&labelColor=grey)](https://nginx.org/en/)
 [![Debian](https://img.shields.io/badge/-debian-black?style=for-the-badge&logo=debian&logoColor=wite&logoSize=auto&labelColor=grey)](https://www.debian.org/)
 [![VM Ware](https://img.shields.io/badge/-esxi-black?style=for-the-badge&logo=vmware&logoColor=white&logoSize=auto&labelColor=grey)](https://www.vmware.com/products/esxi-and-esx.html)
+[![Mikrotik](https://img.shields.io/badge/-MIkrotik-black?style=for-the-badge&logo=mikrotik&logoColor=wite&labelColor=grey)](https://mikrotik.com/)
