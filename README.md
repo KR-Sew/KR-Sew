@@ -3,7 +3,7 @@
 # <img src="/assets/HeaderIco.gif" width="30"> Hi there! Welcome to my page
 >
 I'm Andrei, **System engineer/DevOps** from **St.-Peterburg, Russia**
-with 10+ years of experience in system administration/system engineering in enterprise and small business company
+with 10+ years of experience in system administration/system engineering in enterprise and small business companies
 >
 
  I'm currently learn **Go**
