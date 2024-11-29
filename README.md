@@ -6,7 +6,7 @@ I'm Andrei, **System engineer/DevOps** from **St.-Peterburg, Russia**
 with 10+ years of experience in system administration/system engineering in enterprise and small business companies
 >
 
- I'm currently learn **Go**
+ I'm currently interested in **Go**
 >
 ## Things I work with
 
