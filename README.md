@@ -24,3 +24,4 @@ with 10+ years of experience in system administration/system engineering in ente
 [![Debian](https://img.shields.io/badge/-debian-black?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto&labelColor=grey)](https://www.debian.org/)
 [![VM Ware](https://img.shields.io/badge/-esxi-black?style=for-the-badge&logo=vmware&logoColor=white&logoSize=auto&labelColor=grey)](https://www.vmware.com/products/esxi-and-esx.html)
 [![Mikrotik](https://img.shields.io/badge/-MIkrotik-black?style=for-the-badge&logo=mikrotik&logoColor=wite&labelColor=grey)](https://mikrotik.com/)
+[![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=for-the-badge&logo=powershell&logoColor=white)]
