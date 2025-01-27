@@ -26,5 +26,5 @@ with 10+ years of experience in system administration/system engineering in ente
 [![Mikrotik](https://img.shields.io/badge/-MIkrotik-black?style=for-the-badge&logo=mikrotik&logoColor=wite&labelColor=grey)](https://mikrotik.com/)
 ![PowerShell](https://badgen.net/badge/Azure/Microsoft/blue?icon=azure&labelColor=black)
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/Shell-Microsoft-black.svg?style=flat&logo=powershell-core-eyecatch32&logoColor=white)
-![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
 ![GNU Bash Badge](https://img.shields.io/badge/-GNU%20Bash-black?logo=gnubash&logoColor=fff&style=flat&LabelColor=gray)
+
