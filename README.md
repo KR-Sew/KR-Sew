@@ -16,7 +16,7 @@ with 10+ years of experience in system administration/system engineering in ente
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=flat&logo=microsoft&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D6?style=flat&logo=microsoftazure&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![PowerShell](https://custom-icon-badges.demolab.com/badge/.-PowerShell-blue.svg?style=flat&logo=powershell-core-eyecatch32&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-4E9A06?style=flat&logo=linux&logoColor=white)
 ![MS SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![IIS](https://img.shields.io/badge/IIS-0078D6?style=flat&logo=windows&logoColor=white)
