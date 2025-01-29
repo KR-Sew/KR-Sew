@@ -56,4 +56,12 @@ with 10+ years of experience in system administration/system engineering in ente
 ![Motorola](https://img.shields.io/badge/Motorola%20Wireless-000000?style=flat&logo=motorola&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-FF0000?style=flat&logo=mikrotik&logoColor=white)  
 
----
+### ☁ **Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://badgen.net/badge/Azure/Microsoft/blue?icon=azure&labelColor=black)  
+
+### 📞 **Telephony & VoIP**
+
+![Asterisk](https://img.shields.io/badge/Asterisk-FF6600?style=flat&logo=asterisk&logoColor=white)
+![LG ipLDK 600](https://img.shields.io/badge/LG%20ipLDK%20600-0078D6?style=flat)  
