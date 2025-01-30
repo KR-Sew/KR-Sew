@@ -44,13 +44,13 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 ### 🗃 **Version Control**
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/)  
 
 ### 📦 **Virtualization**
 
-![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat&logo=vmware&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white&logoSize=auto&labelColor=grey)  
+[![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat&logo=vmware&logoColor=white)]((https://www.vmware.com/products/esxi-and-esx.html))
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white&logoSize=auto&labelColor=grey)](https://www.proxmox.com/en/downloads)  
 
 ### 🌐 **Networking & Equipment**
 
@@ -62,7 +62,7 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 ### ☁ **Cloud**
 
 [![AWS](https://custom-icon-badges.demolab.com/badge/Cloud-AWS-e95420?style=flat&logo=aws&logoColor=white&logoSize=auto&labelColor=)](https://explore.skillbuilder.aws/learn/learning-plans/85/devops-engineer-learning-plan)
-![Azure](https://custom-icon-badges.demolab.com/badge/Azure-Microsoft-0078D6?style=flat&logo=microsoftazure&logoColor=white)  
+[![Azure](https://custom-icon-badges.demolab.com/badge/Azure-Microsoft-0078D6?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/azure)  
 
 ### 📞 **Telephony & VoIP**
 
