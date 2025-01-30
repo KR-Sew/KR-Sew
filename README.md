@@ -16,9 +16,9 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 [![Windows](https://custom-icon-badges.demolab.com/badge/Hyper_V-Microsoft-blue?style=flat&logo=icons8-server-ms-hyper-v&logoColor=blue&logoSize=auto&labelColor=grey)](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019)
 ![Azure](https://img.shields.io/badge/Azure-0078D6?style=flat&logo=microsoftazure&logoColor=white)  
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/.-PowerShell-blue.svg?style=flat&logo=powershell-core-eyecatch32&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-4E9A06?style=flat&logo=linux&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D6?style=flat&logo=windows&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-Microsoft-blue?style=flat&logo=linux&logoColor=white&logoSize=auto&labelColor=4E9A06)
+[![MS SQL](https://custom-icon-badges.demolab.com/badge/SQL_Server-Microsoft-blue?style=flat&logo=microsoft-sql-server&logoColor=red&logoSize=auto&labelColor=e1e5ee)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+![IIS](https://custom-icon-badges.demolab.com/badge/IIS-Microsoft-0078D6?style=flat&logo=microsoft-iis-server&logoColor=white)
 ![ISA Server](https://img.shields.io/badge/ISA%20Server-0078D6?style=flat&logo=microsoft&logoColor=white)  
 
 ### 🐧 **Linux & CLI**
