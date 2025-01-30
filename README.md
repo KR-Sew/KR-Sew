@@ -14,7 +14,7 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-Microsoft-0078D6?style=flat&logo=ms-windows-10&logoColor=white)
 ![Windows Server](https://custom-icon-badges.demolab.com/badge/Windows%20Server-Microsoft-0078D6?style=flat&logo=ms-windows-server&logoColor=white)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Hyper_V-Microsoft-blue?style=flat&logo=icons8-server-ms-hyper-v&logoColor=blue&logoSize=auto&labelColor=grey)](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019)
-![Azure](https://img.shields.io/badge/Azure-0078D6?style=flat&logo=microsoftazure&logoColor=white)  
+![Azure](https://custom-icon-badges.demolab.com/badge/Azure-Microsoft-0078D6?style=flat&logo=microsoftazure&logoColor=white)  
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/.-PowerShell-blue.svg?style=flat&logo=powershell-core-eyecatch32&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-Microsoft-blue?style=flat&logo=linux&logoColor=white&logoSize=auto&labelColor=4E9A06)
 [![MS SQL](https://custom-icon-badges.demolab.com/badge/SQL_Server-Microsoft-blue?style=flat&logo=microsoft-sql-server&logoColor=red&logoSize=auto&labelColor=e1e5ee)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
@@ -47,7 +47,8 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 ### 📦 **Virtualization**
 
-![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat&logo=vmware&logoColor=white)  
+![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white&logoSize=auto&labelColor=grey)  
 
 ### 🌐 **Networking & Equipment**
 
@@ -58,7 +59,7 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 ### ☁ **Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/Cloud-AWS-e95420?style=flat&logo=aws&logoColor=white&logoSize=auto&labelColor=)
 ![Azure](https://badgen.net/badge/Azure/Microsoft/blue?icon=azure&labelColor=black)  
 
 ### 📞 **Telephony & VoIP**
