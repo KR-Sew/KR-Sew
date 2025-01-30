@@ -37,8 +37,10 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)  
+![Squid](https://custom-icon-badges.demolab.com/badge/Squid-042a2b?style=flat&logo=icons8-squid-16&logoColor=white&logoSize=auto&labelColor=54f2f2)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white&logoSize=auto&labelColor=607078)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white&logoSize=auto&labelColor=607078)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white&logoSize=auto&labelColor=607078)  
 
 ### 🗃 **Version Control**
 
@@ -55,7 +57,7 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 ![HP Networking](https://img.shields.io/badge/HP%20Networking-0096D6?style=flat&logo=hewlettpackard&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Motorola](https://img.shields.io/badge/Motorola%20Wireless-000000?style=flat&logo=motorola&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-FF0000?style=flat&logo=mikrotik&logoColor=white)  
+![MikroTik](https://img.shields.io/badge/MikroTik-FF0000?style=flat&logo=mikrotik&logoColor=white)
 
 ### ☁ **Cloud**
 
