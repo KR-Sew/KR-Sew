@@ -61,10 +61,10 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 ### ☁ **Cloud**
 
-![AWS](https://custom-icon-badges.demolab.com/badge/Cloud-AWS-e95420?style=flat&logo=aws&logoColor=white&logoSize=auto&labelColor=)
+[![AWS](https://custom-icon-badges.demolab.com/badge/Cloud-AWS-e95420?style=flat&logo=aws&logoColor=white&logoSize=auto&labelColor=)](https://explore.skillbuilder.aws/learn/learning-plans/85/devops-engineer-learning-plan)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Azure-Microsoft-0078D6?style=flat&logo=microsoftazure&logoColor=white)  
 
 ### 📞 **Telephony & VoIP**
 
-![Asterisk](https://img.shields.io/badge/Asterisk-607078?style=flat&logo=asterisk&logoColor=white&logoSize=auto&labelColor=FF6600)
+[![Asterisk](https://img.shields.io/badge/Asterisk-607078?style=flat&logo=asterisk&logoColor=white&logoSize=auto&labelColor=FF6600)](https://www.asterisk.org/downloads/)
 ![LG ipLDK 300/600](https://img.shields.io/badge/LG%20ipLDK%20600-0078D6?style=flat)  
