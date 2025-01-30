@@ -11,9 +11,9 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 ### 🏢 **Microsoft Technologies**
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=flat&logo=microsoft&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-Microsoft-0078D6?style=flat&logo=ms-windows-10&logoColor=white)
+![Windows Server](https://custom-icon-badges.demolab.com/badge/Windows%20Server-Microsoft-0078D6?style=flat&logo=ms-windows-server&logoColor=white)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Hyper_V-Microsoft-blue?style=flat&logo=icons8-server-ms-hyper-v&logoColor=blue&logoSize=auto&labelColor=grey)](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019)
 ![Azure](https://img.shields.io/badge/Azure-0078D6?style=flat&logo=microsoftazure&logoColor=white)  
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/.-PowerShell-blue.svg?style=flat&logo=powershell-core-eyecatch32&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-4E9A06?style=flat&logo=linux&logoColor=white)
