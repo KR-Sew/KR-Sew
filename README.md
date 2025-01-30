@@ -54,10 +54,10 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 ### 🌐 **Networking & Equipment**
 
-![HP Networking](https://custom-icon-badges.demolab.com/badge/HP%20Networking-0096D6?style=flat&logo=hp-networking&logoColor=white&logoSize=auto&labelColor=607078)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white&logoSize=auto&labelColor=607078)
+[![HP Networking](https://custom-icon-badges.demolab.com/badge/HP%20Networking-0096D6?style=flat&logo=hp-networking&logoColor=white&logoSize=auto&labelColor=607078)](https://www.hpe.com/us/en/aruba-cx-switches.html)
+[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white&logoSize=auto&labelColor=607078)](https://www.cisco.com/site/us/en/index.html)
 ![Motorola](https://img.shields.io/badge/Motorola%20Wireless-000000?style=flat&logo=motorola&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-FF0000?style=flat&logo=mikrotik&logoColor=white)
+[![MikroTik](https://img.shields.io/badge/MikroTik-FF0000?style=flat&logo=mikrotik&logoColor=white)](https://mikrotik.com/)
 
 ### ☁ **Cloud**
 
