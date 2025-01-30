@@ -24,9 +24,9 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 ### 🐧 **Linux & CLI**
 
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)  
+![Debian](https://img.shields.io/badge/Debian-607078?style=flat&logo=debian&logoColor=white&logoSize=auto&labelColor=a81d33)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-607078?style=flat&logo=ubuntu&logoColor=white&logoSize=auto&labelColor=e95420)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white&logoSize=auto&labelColor=black)  
 
 ### 🗄 **Databases**
 
@@ -62,7 +62,7 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 ### ☁ **Cloud**
 
 ![AWS](https://custom-icon-badges.demolab.com/badge/Cloud-AWS-e95420?style=flat&logo=aws&logoColor=white&logoSize=auto&labelColor=)
-![Azure](https://badgen.net/badge/Azure/Microsoft/blue?icon=azure&labelColor=black)  
+![Azure](https://custom-icon-badges.demolab.com/badge/Azure-Microsoft-0078D6?style=flat&logo=microsoftazure&logoColor=white)  
 
 ### 📞 **Telephony & VoIP**
 
