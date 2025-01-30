@@ -69,4 +69,18 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 [![Asterisk](https://img.shields.io/badge/Asterisk-607078?style=flat&logo=asterisk&logoColor=white&logoSize=auto&labelColor=FF6600)](https://www.asterisk.org/downloads/)
 [![FreePBX](https://custom-icon-badges.demolab.com/badge/FreePBX-4E9A06?style=flat&logo=freepbx&logoColor=white&logoSize=auto&labelColor=e1e5ee)](https://www.freepbx.org/)
-![LG ipLDK 300/600](https://img.shields.io/badge/LG%20ipLDK%20600-0078D6?style=flat)  
+![LG ipLDK 300/600](https://img.shields.io/badge/LG%20ipLDK%20600-0078D6?style=flat)
+
+---
+
+## **Tools that I used to design this page**
+
+### **Badges**
+
+[![Badgen](https://badgen.net/badge/Badgen/Service/blue)](https://badgen.net/)
+[![Shields](https://img.shields.io/badge/Shields_io-Service-default?style=flat&logo=shields&logoColor=white&logoSize=auto&labelColor=grey)](https://shields.io/)
+[![Custom Icon](https://custom-icon-badges.demolab.com/badge/Custom_Icon-Service-54f2f2?style=flat&logo=customicon&logoColor=white&logoSize=auto&labelColor=grey)](https://custom-icon-badges.demolab.com/)
+
+### **Editor**
+
+![VSCode](https://badgen.net/badge/VSCode/Active/blue)
