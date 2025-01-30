@@ -35,12 +35,12 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 ### 🛠 **DevOps & Monitoring**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
-![Squid](https://custom-icon-badges.demolab.com/badge/Squid-042a2b?style=flat&logo=icons8-squid-16&logoColor=white&logoSize=auto&labelColor=54f2f2)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white&logoSize=auto&labelColor=607078)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white&logoSize=auto&labelColor=607078)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white&logoSize=auto&labelColor=607078)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/)
+[![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org/en/)
+[![Squid](https://custom-icon-badges.demolab.com/badge/Squid-042a2b?style=flat&logo=icons8-squid-16&logoColor=white&logoSize=auto&labelColor=54f2f2)](https://www.squid-cache.org/Intro/)
+[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white&logoSize=auto&labelColor=607078)](https://www.sonarsource.com/products/sonarqube/downloads/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white&logoSize=auto&labelColor=607078)](https://prometheus.io/docs/introduction/overview/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white&logoSize=auto&labelColor=607078)](https://www.jenkins.io/)
 
 ### 🗃 **Version Control**
 
