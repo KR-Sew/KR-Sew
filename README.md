@@ -19,7 +19,8 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 ![WSL](https://img.shields.io/badge/WSL-Microsoft-blue?style=flat&logo=linux&logoColor=white&logoSize=auto&labelColor=4E9A06)
 [![MS SQL](https://custom-icon-badges.demolab.com/badge/SQL_Server-Microsoft-blue?style=flat&logo=microsoft-sql-server&logoColor=red&logoSize=auto&labelColor=e1e5ee)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 ![IIS](https://custom-icon-badges.demolab.com/badge/IIS-Microsoft-0078D6?style=flat&logo=microsoft-iis-server&logoColor=white)
-![ISA Server](https://img.shields.io/badge/ISA%20Server-0078D6?style=flat&logo=microsoft&logoColor=white)  
+![ISA Server](https://custom-icon-badges.demolab.com/badge/ISA%20Server-Microsoft-0078D6?style=flat&logo=windows-forefront-isa&logoColor=white)
+[![MS SQL](https://custom-icon-badges.demolab.com/badge/Biztalk_Server-Microsoft-blue?style=flat&logo=microsoft-sql-server&logoColor=red&logoSize=auto&labelColor=e1e5ee)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ### 🐧 **Linux & CLI**
 
