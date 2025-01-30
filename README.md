@@ -49,7 +49,7 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 ### 📦 **Virtualization**
 
-[![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat&logo=vmware&logoColor=white)]((https://www.vmware.com/products/esxi-and-esx.html))
+[![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/products/esxi-and-esx.html)
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white&logoSize=auto&labelColor=grey)](https://www.proxmox.com/en/downloads)  
 
 ### 🌐 **Networking & Equipment**
