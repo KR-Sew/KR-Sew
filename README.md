@@ -66,5 +66,5 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 ### 📞 **Telephony & VoIP**
 
-![Asterisk](https://img.shields.io/badge/Asterisk-FF6600?style=flat&logo=asterisk&logoColor=white)
-![LG ipLDK 600](https://img.shields.io/badge/LG%20ipLDK%20600-0078D6?style=flat)  
+![Asterisk](https://img.shields.io/badge/Asterisk-607078?style=flat&logo=asterisk&logoColor=white&logoSize=auto&labelColor=FF6600)
+![LG ipLDK 300/600](https://img.shields.io/badge/LG%20ipLDK%20600-0078D6?style=flat)  
