@@ -26,6 +26,7 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 [![Debian](https://img.shields.io/badge/Debian-607078?style=flat&logo=debian&logoColor=white&logoSize=auto&labelColor=a81d33)](https://www.debian.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-607078?style=flat&logo=ubuntu&logoColor=white&logoSize=auto&labelColor=e95420)](https://ubuntu.com/download)
+[![XigmaNAS](https://custom-icon-badges.demolab.com/badge/XigmaNAS-grey?style=flat&logo=xigmanas&logoColor=white&logoSize=auto&labelColor=607078)](https://xigmanas.com/xnaswp/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white&logoSize=auto&labelColor=black)](https://www.gnu.org/software/bash/)  
 
 ### 🗄 **Databases**
@@ -67,4 +68,5 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 ### 📞 **Telephony & VoIP**
 
 [![Asterisk](https://img.shields.io/badge/Asterisk-607078?style=flat&logo=asterisk&logoColor=white&logoSize=auto&labelColor=FF6600)](https://www.asterisk.org/downloads/)
+[![FreePBX](https://custom-icon-badges.demolab.com/badge/FreePBX-4E9A06?style=flat&logo=freepbx&logoColor=white&logoSize=auto&labelColor=e1e5ee)](https://www.freepbx.org/)
 ![LG ipLDK 300/600](https://img.shields.io/badge/LG%20ipLDK%20600-0078D6?style=flat)  
