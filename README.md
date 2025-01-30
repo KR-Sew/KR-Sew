@@ -83,4 +83,4 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 ### **Editor**
 
-![VSCode](https://badgen.net/badge/VSCode/Active/blue)
+[![VSCode](https://badgen.net/badge/VSCode/Active/blue)](https://code.visualstudio.com/)
