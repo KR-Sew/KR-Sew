@@ -14,11 +14,9 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-Microsoft-0078D6?style=flat&logo=ms-windows-10&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Windows Server](https://custom-icon-badges.demolab.com/badge/Windows%20Server-Microsoft-0078D6?style=flat&logo=ms-windows-server&logoColor=white)](https://www.microsoft.com/en-us/windows-server/)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Hyper_V-Microsoft-blue?style=flat&logo=icons8-server-ms-hyper-v&logoColor=blue&logoSize=auto&labelColor=grey)](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019)
-[![Azure](https://custom-icon-badges.demolab.com/badge/Azure-Microsoft-0078D6?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us)  
+[![Azure](https://custom-icon-badges.demolab.com/badge/Azure-Microsoft-0078D6?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us)
 [![PowerShell](https://custom-icon-badges.demolab.com/badge/.-PowerShell-blue.svg?style=flat&logo=powershell-core-eyecatch32&logoColor=white)](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5)
 [![WSL](https://img.shields.io/badge/WSL-Microsoft-blue?style=flat&logo=linux&logoColor=white&logoSize=auto&labelColor=4E9A06)](https://learn.microsoft.com/en-us/windows/wsl/about)
-[![MS SQL](https://custom-icon-badges.demolab.com/badge/SQL_Server-Microsoft-blue?style=flat&logo=microsoft-sql-server&logoColor=red&logoSize=auto&labelColor=e1e5ee)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 [![IIS](https://custom-icon-badges.demolab.com/badge/IIS-Microsoft-0078D6?style=flat&logo=microsoft-iis-server&logoColor=white)](https://www.iis.net/)
 ![ISA Server](https://custom-icon-badges.demolab.com/badge/ISA%20Server-Microsoft-0078D6?style=flat&logo=windows-forefront-isa&logoColor=white)
 [![MS Biztalk](https://custom-icon-badges.demolab.com/badge/Biztalk_Server-Microsoft-blue?style=flat&logo=microsoft-sql-server&logoColor=red&logoSize=auto&labelColor=e1e5ee)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
@@ -33,7 +31,8 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 ### 🗄 **Databases**
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&logoSize=auto&labelColor=5197e1)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A0?style=flat&logo=mysql&logoColor=white&logoSize=auto&labelColor=336791)](https://www.mysql.com/)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A0?style=flat&logo=mysql&logoColor=white&logoSize=auto&labelColor=336791)](https://www.mysql.com/)
+[![MS SQL](https://custom-icon-badges.demolab.com/badge/SQL_Server-Microsoft-blue?style=flat&logo=microsoft-sql-server&logoColor=red&logoSize=auto&labelColor=e1e5ee)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ### 🛠 **DevOps & Monitoring**
 
@@ -52,7 +51,8 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 ### 📦 **Virtualization**
 
 [![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/products/esxi-and-esx.html)
-[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white&logoSize=auto&labelColor=grey)](https://www.proxmox.com/en/downloads)  
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white&logoSize=auto&labelColor=grey)](https://www.proxmox.com/en/downloads)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Hyper_V-Microsoft-blue?style=flat&logo=icons8-server-ms-hyper-v&logoColor=blue&logoSize=auto&labelColor=grey)](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019)
 
 ### 🌐 **Networking & Equipment**
 
