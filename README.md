@@ -85,3 +85,10 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 #### **Editor**
 
 [![VSCode](https://badgen.net/badge/VSCode/Active/blue)](https://code.visualstudio.com/)
+
+---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kr-sew&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kr-sew&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kr-sew&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kr-sew&theme=apprentice&utcOffset=8)
