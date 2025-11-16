@@ -78,10 +78,9 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 #### **Badges**
 
-[![Badgen](https://badgen.net/badge/Badgen/Service/blue)](https://badgen.net/)
 [![Shields](https://img.shields.io/badge/Shields_io-Service-default?style=flat&logo=shields&logoColor=white&logoSize=auto&labelColor=grey)](https://shields.io/)
 [![Custom Icon](https://custom-icon-badges.demolab.com/badge/Custom_Icon-Service-54f2f2?style=flat&logo=customicon&logoColor=white&logoSize=auto&labelColor=grey)](https://custom-icon-badges.demolab.com/)
 
 #### **Editor**
 
-[![VSCode](https://badgen.net/badge/VSCode/Active/blue)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
