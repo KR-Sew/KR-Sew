@@ -53,6 +53,7 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 [![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/products/esxi-and-esx.html)
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white&logoSize=auto&labelColor=grey)](https://www.proxmox.com/en/downloads)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Hyper_V-Microsoft-blue?style=flat&logo=icons8-server-ms-hyper-v&logoColor=blue&logoSize=auto&labelColor=grey)](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019)
+[![LXC/LXD](https://custom-icon-badges.demolab.com/badge/LXC_LXD-Containers-607078?style=flat&logo=lxd-lxc_logo&logoColor=grey&logoSize=auto&labelColor=grey)](https://documentation.ubuntu.com/lxd/stable-5.21/)
 
 ### 🌐 **Networking & Equipment**
 
