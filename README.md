@@ -33,6 +33,7 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&logoSize=auto&labelColor=5197e1)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A0?style=flat&logo=mysql&logoColor=white&logoSize=auto&labelColor=336791)](https://www.mysql.com/)
 [![MS SQL](https://custom-icon-badges.demolab.com/badge/SQL_Server-Microsoft-blue?style=flat&logo=microsoft-sql-server&logoColor=red&logoSize=auto&labelColor=e1e5ee)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[![MongoDB](https://img.shields.io/badge/MongoDB-004d39?style=flat&logo=mongodb&logoColor=white&logoSize=auto&labelColor=00e600)](https://www.mongodb.com/)
 
 ### 🛠 **DevOps & Monitoring**
 
