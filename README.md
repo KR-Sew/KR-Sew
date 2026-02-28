@@ -89,4 +89,4 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 #### **Icons and pics**
 
-[![Database Icon by icons8.com](https://img.shields.io/badge/Database%20Icon%20by%20icon8.com-54f2f2.svg?logo=vsc&logoColor=white)](https://icons8.com/>)
+[![Database Icon by icons8.com](https://img.shields.io/badge/Database%20Icon%20by%20icon8.com-54f2f2.svg?logo=vsc&logoColor=white)](https://icons8.com)
