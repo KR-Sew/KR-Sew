@@ -18,15 +18,16 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 [![PowerShell](https://custom-icon-badges.demolab.com/badge/.-PowerShell-blue.svg?style=flat&logo=powershell-core-eyecatch32&logoColor=white)](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5)
 [![WSL](https://img.shields.io/badge/WSL-Microsoft-blue?style=flat&logo=linux&logoColor=white&logoSize=auto&labelColor=4E9A06)](https://learn.microsoft.com/en-us/windows/wsl/about)
 [![IIS](https://custom-icon-badges.demolab.com/badge/IIS-Microsoft-0078D6?style=flat&logo=microsoft-iis-server&logoColor=white)](https://www.iis.net/)
-![ISA Server](https://custom-icon-badges.demolab.com/badge/ISA%20Server-Microsoft-0078D6?style=flat&logo=windows-forefront-isa&logoColor=white)
-[![MS Biztalk](https://custom-icon-badges.demolab.com/badge/Biztalk_Server-Microsoft-blue?style=flat&logo=microsoft-sql-server&logoColor=red&logoSize=auto&labelColor=e1e5ee)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+<!-- ![ISA Server](https://custom-icon-badges.demolab.com/badge/ISA%20Server-Microsoft-0078D6?style=flat&logo=windows-forefront-isa&logoColor=white)
+[![MS Biztalk](https://custom-icon-badges.demolab.com/badge/Biztalk_Server-Microsoft-blue?style=flat&logo=microsoft-sql-server&logoColor=red&logoSize=auto&labelColor=e1e5ee)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) -->
 
 ### 🐧 **Linux & CLI**
 
 [![Debian](https://img.shields.io/badge/Debian-607078?style=flat&logo=debian&logoColor=white&logoSize=auto&labelColor=a81d33)](https://www.debian.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-607078?style=flat&logo=ubuntu&logoColor=white&logoSize=auto&labelColor=e95420)](https://ubuntu.com/download)
-[![XigmaNAS](https://custom-icon-badges.demolab.com/badge/XigmaNAS-grey?style=flat&logo=xigmanas&logoColor=white&logoSize=auto&labelColor=607078)](https://xigmanas.com/xnaswp/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white&logoSize=auto&labelColor=black)](https://www.gnu.org/software/bash/)  
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white&logoSize=auto&labelColor=black)](https://www.gnu.org/software/bash/)
+<!-- [![XigmaNAS](https://custom-icon-badges.demolab.com/badge/XigmaNAS-grey?style=flat&logo=xigmanas&logoColor=white&logoSize=auto&labelColor=607078)](https://xigmanas.com/xnaswp/) -->
+  
 
 ### 🗄 **Databases**
 
@@ -41,8 +42,8 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 [![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org/en/)
 [![Squid](https://custom-icon-badges.demolab.com/badge/Squid-042a2b?style=flat&logo=icons8-squid-16&logoColor=white&logoSize=auto&labelColor=54f2f2)](https://www.squid-cache.org/Intro/)
 [![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white&logoSize=auto&labelColor=607078)](https://www.sonarsource.com/products/sonarqube/downloads/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white&logoSize=auto&labelColor=607078)](https://prometheus.io/docs/introduction/overview/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white&logoSize=auto&labelColor=607078)](https://www.jenkins.io/)
+<!-- [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white&logoSize=auto&labelColor=607078)](https://prometheus.io/docs/introduction/overview/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white&logoSize=auto&labelColor=607078)](https://www.jenkins.io/) -->
 
 ### 🗃 **Version Control**
 
@@ -51,7 +52,7 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 
 ### 📦 **Virtualization**
 
-[![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/products/esxi-and-esx.html)
+<!-- [![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/products/esxi-and-esx.html) -->
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white&logoSize=auto&labelColor=grey)](https://www.proxmox.com/en/downloads)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Hyper_V-Microsoft-blue?style=flat&logo=icons8-server-ms-hyper-v&logoColor=blue&logoSize=auto&labelColor=grey)](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019)
 [![LXC/LXD](https://custom-icon-badges.demolab.com/badge/LXC_LXD-Containers-607078?style=flat&logo=lxd-lxc_logo&logoColor=grey&logoSize=auto&labelColor=grey)](https://documentation.ubuntu.com/lxd/stable-5.21/)
