@@ -68,7 +68,8 @@ I'm Andrei, **System engineer/DevOps** with 10+ years of experience in system ad
 ### ☁ **Cloud**
 
 [![AWS](https://custom-icon-badges.demolab.com/badge/Cloud-AWS-e95420?style=flat&logo=aws&logoColor=white&logoSize=auto&labelColor=000000)](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsf.Free%20Tier%20Categories=*all)
-[![Azure](https://custom-icon-badges.demolab.com/badge/Azure-Microsoft-0078D6?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/azure)  
+[![Azure](https://custom-icon-badges.demolab.com/badge/Azure-Microsoft-0078D6?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/azure)
+[![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)](https://min.io/)
 
 ### 📞 **Telephony & VoIP**
 
